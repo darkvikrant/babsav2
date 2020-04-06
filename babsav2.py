@@ -61,7 +61,7 @@ def tik():
 
 
 back = 0
-it works = []
+berhasil = []
 checkpoint = []
 ok = []
 id = []
