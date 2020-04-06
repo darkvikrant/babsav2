@@ -197,7 +197,7 @@ def pilih():
 	elif unikers =="1":
 		super()
 	elif unikers =="2":
-		my group()
+		Group()
 	elif unikers =="3":
 		yahoo()
 	elif unikers =="0":
